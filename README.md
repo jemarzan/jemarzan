@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm J. Marzan 👋
 
-<!--
-**jemarzan/jemarzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Practitioner
 
-Here are some ideas to get you started:
+I learn by building, breaking, and fixing things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently practicing with Linux, Docker, Vagrant, AWS Free Tier, Terraform, Nginx, Tomcat, MySQL, and Kubernetes.
+
+Recent hands-on experience:
+
+* Deploying applications on AWS EC2
+* Provisioning infrastructure with Terraform
+* Building local DevOps labs with Vagrant
+* Containerizing applications with Docker
+
+Always learning and documenting my journey.
