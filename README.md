@@ -1,16 +1,46 @@
-# Hi, I'm J. Marzan 👋
+# Hi 👋 I'm John Erimar Marzan
 
-🚀 DevOps Practitioner
+### Aspiring DevOps Engineer
 
-I learn by building, breaking, and fixing things.
+I'm currently building my skills in DevOps by working on hands-on deployment projects and infrastructure labs.
 
-Currently practicing with Linux, Docker, Vagrant, AWS Free Tier, Terraform, Nginx, Tomcat, MySQL, and Kubernetes.
+## 🚀 What I Know
 
-Recent hands-on experience:
+* Vagrant
+* Docker (Containerization)
+* Infrastructure Provisioning
+* Basic YAML, JSON, and Python
+* Basic AWS Services
+* Basic Linux Administration
 
-* Deploying applications on AWS EC2
-* Provisioning infrastructure with Terraform
-* Building local DevOps labs with Vagrant
-* Containerizing applications with Docker
+## 🔧 Hands-On Experience
 
-Always learning and documenting my journey.
+I have deployed and configured applications using:
+
+* Nginx
+* Apache Tomcat
+* MySQL / MariaDB
+* RabbitMQ
+* Memcached
+
+Most of my projects focus on setting up multi-tier application environments, automating provisioning, and learning deployment best practices.
+
+## 📚 Currently Learning
+
+* Jenkins (CI/CD)
+* Terraform
+* Kubernetes
+* AWS Cloud Services
+* Infrastructure as Code (IaC)
+
+## 🎯 Goal
+
+To become a DevOps Engineer by continuously improving my skills in automation, cloud infrastructure, containerization, and deployment practices.
+
+## 📂 Projects
+
+Feel free to explore my repositories where I document my learning journey, deployment projects, and infrastructure labs.
+
+## 📫 Connect
+
+GitHub: github.com/jemarzan
