@@ -1,4 +1,4 @@
-# Hi 👋 I'm John Erimar Marzan
+# Hi 👋 I'm J. Marzan
 
 ### Aspiring DevOps Engineer
 
