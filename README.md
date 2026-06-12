@@ -28,7 +28,6 @@ Most of my projects focus on setting up multi-tier application environments, aut
 ## 📚 Currently Learning
 
 * Jenkins (CI/CD)
-* Terraform
 * Kubernetes
 * AWS Cloud Services
 * Infrastructure as Code (IaC)
